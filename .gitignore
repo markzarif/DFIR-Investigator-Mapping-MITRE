@@ -1,0 +1,26 @@
+# Case output - never commit collected evidence
+IRCollection/
+*_*Z/
+*.zip
+*.rar
+*.7z
+*.sha256
+*.evtx
+manifest.csv
+collection.log
+*_collection.log
+report/IR-Report.html
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.log
